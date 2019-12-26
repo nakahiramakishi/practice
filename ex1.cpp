@@ -3,5 +3,7 @@
  int main(){
      printf("hello world");
 
-     return 1;
+int x=1
+print("%d,x")
+     return 0;
  }
